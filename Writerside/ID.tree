@@ -3,8 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="ID"
-                 name="invest"
+                 name="Poland invest"
                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="Analysis.md"/>
+        <toc-element topic="Bonds.md"/>
+        <toc-element topic="Brokers.md"/>
+    </toc-element>
 </instance-profile>
