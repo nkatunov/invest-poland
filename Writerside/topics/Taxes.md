@@ -1,39 +1,32 @@
-# Taxes
+# Налоги
 
-A How-to article is an action-oriented type of document.
-It explains how to perform a specific task or solve a problem, and usually contains a sequence of steps.
-Start with a short introductory paragraph that explains what users will accomplish by following this procedure,
-what they need to perform it for, or define the target audience of the doc.
+Идея этого гайда описать процесс оплаты налогов за инвестиции в Польше. 
 
-> **Highlight important information**
+> **ВАЖНО**
 >
-> You can change the element to *tip* or *warning* by renaming the style attribute below.
+> Гайд не является достоверным источником, а только лишь ориентиром. За все действия ответственность несет сам исполнитель.
 >
 {style="note"}
 
-## Before you start
+## Перед началом
 
-It is good practice to list the prerequisites that are required or recommended.
+Убедитесь что:
+- Вы являетесь налоговым резидентом Польши
+- Определитесь с периодом оплаты налогов (за какой год подается декларация)
+- Проверьте, предоставляет ли ваш брокер форму pit8c, в которой расписано, как заполнять декларацию PIT
 
-Make sure that:
-- First prerequisite
-- Second prerequisite
+## Список транзакций
 
-## How to perform a task
+1. Если ваш брокер не предоставляет готовый отчет по налогам (либо же если вы хотите эти расчеты перепроверить), то вам необходимо сделать выгрузку всех операций по вашему счет за отчетный период
+2. Для этого зайдите в личный кабинет брокера и найдите годовой отчет. Зачастую там же будет возможность выгрузить данные в Excel
 
-Some introductory information.
+## Налоги от продажи акций
 
-1. Step with a code block
+## Налоги от дивидендов (withholding tax)
 
-   ```bash
-    run this --that
-   ```
+## Использованная информация
 
-2. Step with a [link](https://www.jetbrains.com)
-
-3. Step with a list.
-   - List item
-   - List item
-   - List item
+1. Список источников
+   - [Как считать налоги (PL)](https://jakoszczedzacpieniadze.pl/jak-rozliczyc-podatek-od-dywidendy-zagranicznej-i-zysk-na-akcjach-jaki-pit)
 
 
