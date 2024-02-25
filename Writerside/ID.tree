@@ -7,8 +7,6 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md">
-        <toc-element topic="Analysis.md"/>
-        <toc-element topic="Bonds.md"/>
-        <toc-element topic="Brokers.md"/>
     </toc-element>
+    <toc-element topic="Taxes.md"/>
 </instance-profile>
